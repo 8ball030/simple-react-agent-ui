@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# Simple Agent Interface
+
+Create react app bundled with build and packed as a component on autonolas.
+
+Verify the hash of a deployed frontend by running.
+
+```
+make build
+```
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
